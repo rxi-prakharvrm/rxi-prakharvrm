@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my own website
 - 🌱 I’m currently learning **wordpress**
 - 👯 I’m looking to collaborate on **Full-stack web development**
