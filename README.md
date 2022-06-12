@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my own website
-- 🌱 I’m currently learning **wordpress**
+- 🌱 I’m currently learning **React JS and Node JS**
 - 👯 I’m looking to collaborate on **Full-stack web development**
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
