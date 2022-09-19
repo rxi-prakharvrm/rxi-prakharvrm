@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on creating Projects
+- 🔭 I’m currently working on Node JS Projects
 - 🌱 I’m currently learning **React JS and Node JS**
 - 👯 I’m looking to collaborate on **Web development** (front-end | back-end | full-stack)
 <!-- - 🤔 I’m looking for help with ... -->
