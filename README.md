@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Node JS Projects
-- 🌱 I’m currently learning **React JS and Node JS**
-- 👯 I’m looking to collaborate on **Web development** (front-end | back-end | full-stack)
+- 🔭 I’m currently working on Python Projects
+- 🌱 I’m currently learning **Python**
+- 👯 I’m looking to collaborate on **Web development** (full-stack) and **Software Engineering**
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: 9389247832 | prakharverma1022@gmail.com
