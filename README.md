@@ -8,6 +8,3 @@
 - 📫 How to reach me: 9389247832 | prakharverma1022@gmail.com
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I am learning Spanish.
-
-
-<button name="button" onclick="http://www.google.com">Click me</button>
