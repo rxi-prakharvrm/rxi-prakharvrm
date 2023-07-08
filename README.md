@@ -46,7 +46,7 @@
 
 ### Projects
 
-- 🌐 Check out my projects on [GitHub](https://github.com/rxi-prakharvrm)
+- 🌐 Check out my projects on [GitHub](https://github.com/rxi-prakharvrm?tab=repositories)
 - 🚀 Showcase of diverse web development projects and contributions
 - 📂 Collaborative coding and open-source enthusiast
 - 🌟 Always looking for exciting new projects and opportunities
