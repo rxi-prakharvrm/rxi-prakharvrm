@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/prakhar-verma-5337331bb/">
+  <a href="https://www.linkedin.com/in/rxi-prakharvrm/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/prakhar.verma.14661">
+  <a href="https://www.instagram.com/rxi_prakharvrm">
     <img src="https://img.shields.io/badge/faceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
   </a>
-  <a href="https://twitter.com/PV7832pv">
+  <a href="https://twitter.com/rxi_prakharvrm">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -54,7 +54,7 @@
 ### Let's Connect!
 
 - 📫 Reach me at prakharverma1022@gmail.com
-- 🔗 Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-verma-5337331bb/)
+- 🔗 Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rxi-prakharvrm/)
 - ✨ Let's collaborate and create impactful web solutions together!
 
 ---
@@ -78,6 +78,8 @@
 ---
 
 ### :fire: My Stats :
+
+<rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="466" fill="#141321" stroke-opacity="1"/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rxi-prakharvrm&theme=dark&background=000000)](https://git.io/streak-stats)
 
