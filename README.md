@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/rxi_prakharvrm">
-    <img src="https://img.shields.io/badge/faceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
+    <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" alt="instagram Badge"/>
   </a>
   <a href="https://twitter.com/rxi_prakharvrm">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -79,7 +79,7 @@
 
 ### :fire: My Stats :
 
-<rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="466" fill="#141321" stroke-opacity="1"/>
+![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxi-prakharvrm&show_icons=true&theme=transparent)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rxi-prakharvrm&theme=dark&background=000000)](https://git.io/streak-stats)
 
