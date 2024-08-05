@@ -70,4 +70,6 @@
 
 ### :fire: My Stats :
 
-![rxi-prakharvrm's Stats](https://github-readme-stats.vercel.app/api?username=rxi-prakharvrm&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![rxi-prakharvrm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rxi-prakharvrm&theme=tokyonight&hide_border=true)
+
+![rxi-prakharvrm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rxi-prakharvrm&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
