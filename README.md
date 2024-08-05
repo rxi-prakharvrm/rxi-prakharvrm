@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
-</div>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rxi-prakharvrm/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -74,9 +70,4 @@
 
 ### :fire: My Stats :
 
-![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxi-prakharvrm&show_icons=true&theme=transparent)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rxi-prakharvrm&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxi-prakharvrm&layout=compact)
-
+![rxi-prakharvrm's Stats](https://github-readme-stats.vercel.app/api?username=rxi-prakharvrm&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
