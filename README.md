@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
 </div>
 
 <div id="badges" align="center">
@@ -23,10 +23,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 
 ## Prakhar Verma
@@ -39,7 +35,7 @@
 
 - 💡 Turning ideas into functional and visually appealing websites
 - 🌐 Experienced in building commercial websites
-- 💻 Proficient in C, C++, Python, HTML, CSS, and JavaScript
+- 💻 Proficient in C, C++, React.js, JavaScript, CSS and HTML
 - 🚀 Constantly learning and exploring new web technologies
 - 🌱 Committed to enhancing user experiences through intuitive designs
 - 📚 Passionate about writing clean, efficient, and scalable code
