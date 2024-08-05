@@ -19,11 +19,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
-
 ## Prakhar Verma
-
-👨‍💻 👨‍🎓 MCA'25 Student at Delhi University | 🧑‍🔬 Aspiring Software Engineer | 🧑‍💻 Coding Enthusiast | 📈 Code Auction | 🌐 Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🚀
 
 🌍 India 🇮🇳
 
@@ -70,6 +66,6 @@
 
 ### :fire: My Stats :
 
-![rxi-prakharvrm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rxi-prakharvrm&theme=transparent&hide_border=true)
+![rxi-prakharvrm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rxi-prakharvrm&theme=transparent&hide_border=false)
 
-![rxi-prakharvrm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rxi-prakharvrm&theme=transparent&show_icons=true&hide_border=true&layout=compact)
+![rxi-prakharvrm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rxi-prakharvrm&theme=transparent&show_icons=true&hide_border=false&layout=compact)
