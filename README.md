@@ -27,7 +27,7 @@
 
 - 💡 Turning ideas into functional and visually appealing websites
 - 🌐 Experienced in building commercial websites
-- 💻 Proficient in C, C++, React.js, JavaScript, CSS and HTML
+- 💻 Proficient in C, C++, SQL, React.js, JavaScript, CSS and HTML
 - 🚀 Constantly learning and exploring new web technologies
 - 🌱 Committed to enhancing user experiences through intuitive designs
 - 📚 Passionate about writing clean, efficient, and scalable code
