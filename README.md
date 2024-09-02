@@ -25,12 +25,13 @@
 
 ### About Me
 
-- 💡 Turning ideas into functional and visually appealing websites
+- 💡 MCA'25 student at Univerity of Delhi
 - 🌐 Experienced in building commercial websites
-- 💻 Proficient in C, C++, SQL, React.js, JavaScript, CSS and HTML
-- 🚀 Constantly learning and exploring new web technologies
+- 💻 Proficient in C, C++, SQL, React.js, JavaScript, CSS, and HTML
+- 🚀 Constantly learning and exploring new technologies
 - 🌱 Committed to enhancing user experiences through intuitive designs
 - 📚 Passionate about writing clean, efficient, and scalable code
+- 🤝 Contributed to multiple projects, enhancing both personal and collaborative outcomes
 
 ### Projects
 
@@ -41,7 +42,7 @@
 
 ### Let's Connect!
 
-- 📫 Reach me at prakhar-mca23@gmail.com
+- 📫 Reach me at prakharverma1022@gmail.com
 - 🔗 Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rxi-prakharvrm/)
 - ✨ Let's collaborate and create impactful web solutions together!
 
