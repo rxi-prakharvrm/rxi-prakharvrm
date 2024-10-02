@@ -27,7 +27,7 @@
 
 - 💡 MCA'25 student at Univerity of Delhi
 - 🌐 Experienced in building commercial websites
-- 💻 Proficient in C, C++, SQL, React.js, JavaScript, CSS, and HTML
+- 💻 Proficient in Python, Java, C, C++, SQL, React.js, JavaScript, CSS, and HTML
 - 🚀 Constantly learning and exploring new technologies
 - 🌱 Committed to enhancing user experiences through intuitive designs
 - 📚 Passionate about writing clean, efficient, and scalable code
@@ -51,6 +51,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/isocpp/logos/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
